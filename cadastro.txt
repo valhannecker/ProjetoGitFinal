@@ -1,0 +1,7 @@
+Cadastro de Cliente
+
+Nome: Val
+Endereço: rua azul
+Telefone: 999999
+Cidade: sao leopoldo
+Email: valentina@email
